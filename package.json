@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AshikNesin/netlify-pushover-example/issues"
   },
-  "homepage": "https://github.com/AshikNesin/netlify-pushover-example#readme"
+  "homepage": "https://github.com/AshikNesin/netlify-pushover-example#readme",
+  "dependencies": {
+    "netlify-plugin-pushover": "0.0.0"
+  }
 }

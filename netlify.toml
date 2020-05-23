@@ -1,2 +1,2 @@
 [[plugins]]
-package = "./plugins/netlify-build-plugin-pushover"
+package = "./plugins/netlify-plugin-pushover"

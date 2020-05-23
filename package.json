@@ -1,0 +1,21 @@
+{
+  "name": "netlify-pushover-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Hello from Build Script\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshikNesin/netlify-pushover-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshikNesin/netlify-pushover-example/issues"
+  },
+  "homepage": "https://github.com/AshikNesin/netlify-pushover-example#readme"
+}

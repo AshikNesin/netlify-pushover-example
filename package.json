@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/AshikNesin/netlify-pushover-example#readme",
   "dependencies": {
-    "netlify-plugin-pushover": "0.1.0"
+    "netlify-plugin-pushover": "0.1.1"
   }
 }
